@@ -1,0 +1,11 @@
+INFO:root:Configuration file successfully loaded.
+INFO:root:Current datetime: 2023-01-10 11:32:31.991152
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Get LATEST chromedriver version for google-chrome 108.0.5359
+INFO:WDM:There is no [win32] chromedriver for browser 108.0.5359 in cache
+INFO:WDM:About to download new driver from https://chromedriver.storage.googleapis.com/108.0.5359.71/chromedriver_win32.zip
+INFO:WDM:Driver has been saved in cache [C:\Users\sarah.rappaport\.wdm\drivers\chromedriver\win32\108.0.5359]
+WARNING:urllib3.connectionpool:Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000021F92A82750>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/ae87a6756c27fc897c24f81be1a11833
+WARNING:urllib3.connectionpool:Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000021F92ACFF90>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/ae87a6756c27fc897c24f81be1a11833
+WARNING:urllib3.connectionpool:Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000021F92AC4C10>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/ae87a6756c27fc897c24f81be1a11833
+INFO:root:Program finished successfully!

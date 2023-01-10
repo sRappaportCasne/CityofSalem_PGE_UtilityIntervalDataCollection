@@ -1,0 +1,301 @@
+INFO:root:Configuration file successfully loaded.
+INFO:root:Current datetime: 2023-01-10 11:53:29.808235
+INFO:root:Opening browser...
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Get LATEST chromedriver version for google-chrome 108.0.5359
+INFO:WDM:Driver [C:\Users\sarah.rappaport\.wdm\drivers\chromedriver\win32\108.0.5359\chromedriver.exe] found in cache
+INFO:root:Successfully logged in
+INFO:root:Processing site: 
+INFO:root:{'NAME': 'GEREN_CHEM_BUILDING_PPL_', 'SITE': 'GI CHEM Bldg / OPS ', 'METER': '70185375'}
+INFO:root:Site successfully processed
+INFO:root:Processing site: 
+INFO:root:{'NAME': 'GEREN_PRETREATMENT_', 'SITE': 'GI Pre Treat / SECW ', 'METER': '77437253'}
+INFO:root:Site successfully processed
+INFO:root:Processing site: 
+INFO:root:{'NAME': 'GEREN_WELLS_PPL_', 'SITE': 'GI WELLS', 'METER': '75349246'}
+INFO:root:Site successfully processed
+INFO:root:Processing site: 
+INFO:root:{'NAME': 'GEREN_SAND_CLEANING_', 'SITE': 'GI Sand Clean ', 'METER': '77293132'}
+INFO:root:Site successfully processed
+INFO:root:Processing site: 
+INFO:root:{'NAME': 'PIONEERPARK_PPL_', 'SITE': 'GI Pioneer Park ', 'METER': '77619010'}
+INFO:root:Site successfully processed
+INFO:root:Processing site: 
+INFO:root:{'NAME': 'GEREN_ENTRY_GATE_PPL_', 'SITE': 'Entry Gate', 'METER': '77618573'}
+INFO:root:Site successfully processed
+INFO:root:Program finished successfully!
+INFO:root:Configuration file successfully loaded.
+INFO:root:Current datetime: 2023-01-10 12:05:27.996243
+INFO:root:Opening browser...
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Get LATEST chromedriver version for google-chrome 108.0.5359
+INFO:WDM:Driver [C:\Users\sarah.rappaport\.wdm\drivers\chromedriver\win32\108.0.5359\chromedriver.exe] found in cache
+INFO:root:An exception happened
+INFO:root:name 'WebDriverWait' is not defined
+INFO:root:Configuration file successfully loaded.
+INFO:root:Current datetime: 2023-01-10 12:06:00.451518
+INFO:root:Opening browser...
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Get LATEST chromedriver version for google-chrome 108.0.5359
+INFO:WDM:Driver [C:\Users\sarah.rappaport\.wdm\drivers\chromedriver\win32\108.0.5359\chromedriver.exe] found in cache
+INFO:root:An exception happened
+INFO:root:name 'WebDriverWait' is not defined
+INFO:root:Configuration file successfully loaded.
+INFO:root:Current datetime: 2023-01-10 12:07:01.608932
+INFO:root:Opening browser...
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Get LATEST chromedriver version for google-chrome 108.0.5359
+INFO:WDM:Driver [C:\Users\sarah.rappaport\.wdm\drivers\chromedriver\win32\108.0.5359\chromedriver.exe] found in cache
+INFO:root:An exception happened
+INFO:root:name 'WebDriverWait' is not defined
+INFO:root:Configuration file successfully loaded.
+INFO:root:Current datetime: 2023-01-10 12:07:46.467774
+INFO:root:Opening browser...
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Get LATEST chromedriver version for google-chrome 108.0.5359
+INFO:WDM:Driver [C:\Users\sarah.rappaport\.wdm\drivers\chromedriver\win32\108.0.5359\chromedriver.exe] found in cache
+INFO:root:Successfully logged in
+INFO:root:Processing site: 
+INFO:root:{'NAME': 'GEREN_CHEM_BUILDING_PPL_', 'SITE': 'GI CHEM Bldg / OPS ', 'METER': '70185375'}
+INFO:root:Site successfully processed
+INFO:root:Processing site: 
+INFO:root:{'NAME': 'GEREN_PRETREATMENT_', 'SITE': 'GI Pre Treat / SECW ', 'METER': '77437253'}
+INFO:root:Site successfully processed
+INFO:root:Processing site: 
+INFO:root:{'NAME': 'GEREN_WELLS_PPL_', 'SITE': 'GI WELLS', 'METER': '75349246'}
+INFO:root:Configuration file successfully loaded.
+INFO:root:Current datetime: 2023-01-10 12:09:20.300261
+INFO:root:Opening browser...
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Get LATEST chromedriver version for google-chrome 108.0.5359
+INFO:WDM:Driver [C:\Users\sarah.rappaport\.wdm\drivers\chromedriver\win32\108.0.5359\chromedriver.exe] found in cache
+INFO:root:An exception happened
+INFO:root:Message: 
+Stacktrace:
+Backtrace:
+	(No symbol) [0x00B9F243]
+	(No symbol) [0x00B27FD1]
+	(No symbol) [0x00A1D04D]
+	(No symbol) [0x00A4C0B0]
+	(No symbol) [0x00A4C22B]
+	(No symbol) [0x00A7E612]
+	(No symbol) [0x00A685D4]
+	(No symbol) [0x00A7C9EB]
+	(No symbol) [0x00A68386]
+	(No symbol) [0x00A4163C]
+	(No symbol) [0x00A4269D]
+	GetHandleVerifier [0x00E39A22+2655074]
+	GetHandleVerifier [0x00E2CA24+2601828]
+	GetHandleVerifier [0x00C48C0A+619850]
+	GetHandleVerifier [0x00C47830+614768]
+	(No symbol) [0x00B305FC]
+	(No symbol) [0x00B35968]
+	(No symbol) [0x00B35A55]
+	(No symbol) [0x00B4051B]
+	BaseThreadInitThunk [0x777000F9+25]
+	RtlGetAppContainerNamedObjectPath [0x778E7BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x778E7B8E+238]
+
+INFO:root:Configuration file successfully loaded.
+INFO:root:Current datetime: 2023-01-10 12:10:24.624970
+INFO:root:Opening browser...
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Get LATEST chromedriver version for google-chrome 108.0.5359
+INFO:WDM:Driver [C:\Users\sarah.rappaport\.wdm\drivers\chromedriver\win32\108.0.5359\chromedriver.exe] found in cache
+INFO:root:Successfully logged in
+INFO:root:Processing site: 
+INFO:root:{'NAME': 'GEREN_CHEM_BUILDING_PPL_', 'SITE': 'GI CHEM Bldg / OPS ', 'METER': '70185375'}
+INFO:root:Configuration file successfully loaded.
+INFO:root:Current datetime: 2023-01-10 12:19:40.778668
+INFO:root:Opening browser...
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Get LATEST chromedriver version for google-chrome 108.0.5359
+INFO:WDM:Driver [C:\Users\sarah.rappaport\.wdm\drivers\chromedriver\win32\108.0.5359\chromedriver.exe] found in cache
+INFO:root:Successfully logged in
+INFO:root:Processing site: 
+INFO:root:{'NAME': 'GEREN_CHEM_BUILDING_PPL_', 'SITE': 'GI CHEM Bldg / OPS ', 'METER': '70185375'}
+INFO:root:Site successfully processed
+INFO:root:Processing site: 
+INFO:root:{'NAME': 'GEREN_PRETREATMENT_', 'SITE': 'GI Pre Treat / SECW ', 'METER': '77437253'}
+INFO:root:Site successfully processed
+INFO:root:Processing site: 
+INFO:root:{'NAME': 'GEREN_WELLS_PPL_', 'SITE': 'GI WELLS', 'METER': '75349246'}
+INFO:root:Site successfully processed
+INFO:root:Processing site: 
+INFO:root:{'NAME': 'GEREN_SAND_CLEANING_', 'SITE': 'GI Sand Clean ', 'METER': '77293132'}
+INFO:root:Site successfully processed
+INFO:root:Processing site: 
+INFO:root:{'NAME': 'PIONEERPARK_PPL_', 'SITE': 'GI Pioneer Park ', 'METER': '77619010'}
+INFO:root:Site successfully processed
+INFO:root:Processing site: 
+INFO:root:{'NAME': 'GEREN_ENTRY_GATE_PPL_', 'SITE': 'Entry Gate', 'METER': '77618573'}
+INFO:root:Site successfully processed
+INFO:root:An exception happened
+INFO:root:Message: 
+Stacktrace:
+Backtrace:
+	(No symbol) [0x00B9F243]
+	(No symbol) [0x00B27FD1]
+	(No symbol) [0x00A1D04D]
+	(No symbol) [0x00A4C0B0]
+	(No symbol) [0x00A4C22B]
+	(No symbol) [0x00A7E612]
+	(No symbol) [0x00A685D4]
+	(No symbol) [0x00A7C9EB]
+	(No symbol) [0x00A68386]
+	(No symbol) [0x00A4163C]
+	(No symbol) [0x00A4269D]
+	GetHandleVerifier [0x00E39A22+2655074]
+	GetHandleVerifier [0x00E2CA24+2601828]
+	GetHandleVerifier [0x00C48C0A+619850]
+	GetHandleVerifier [0x00C47830+614768]
+	(No symbol) [0x00B305FC]
+	(No symbol) [0x00B35968]
+	(No symbol) [0x00B35A55]
+	(No symbol) [0x00B4051B]
+	BaseThreadInitThunk [0x777000F9+25]
+	RtlGetAppContainerNamedObjectPath [0x778E7BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x778E7B8E+238]
+
+INFO:root:Processing site: 
+INFO:root:{'NAME': 'GEREN_CHEM_BUILDING_PPL_', 'SITE': 'GI CHEM Bldg / OPS ', 'METER': '70185375'}
+WARNING:urllib3.connectionpool:Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002807F204150>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/8e36cdebc7971998ee9d32c8fa3658ea/element
+WARNING:urllib3.connectionpool:Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002807F234150>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/8e36cdebc7971998ee9d32c8fa3658ea/element
+WARNING:urllib3.connectionpool:Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002807F234950>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/8e36cdebc7971998ee9d32c8fa3658ea/element
+INFO:root:Configuration file successfully loaded.
+INFO:root:Current datetime: 2023-01-10 12:21:35.085235
+INFO:root:Opening browser...
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Get LATEST chromedriver version for google-chrome 108.0.5359
+INFO:WDM:Driver [C:\Users\sarah.rappaport\.wdm\drivers\chromedriver\win32\108.0.5359\chromedriver.exe] found in cache
+INFO:root:Successfully logged in
+INFO:root:Processing site: 
+INFO:root:{'NAME': 'GEREN_CHEM_BUILDING_PPL_', 'SITE': 'GI CHEM Bldg / OPS ', 'METER': '70185375'}
+INFO:root:Site successfully processed
+INFO:root:Processing site: 
+INFO:root:{'NAME': 'GEREN_PRETREATMENT_', 'SITE': 'GI Pre Treat / SECW ', 'METER': '77437253'}
+INFO:root:Site successfully processed
+INFO:root:Processing site: 
+INFO:root:{'NAME': 'GEREN_WELLS_PPL_', 'SITE': 'GI WELLS', 'METER': '75349246'}
+INFO:root:Site successfully processed
+INFO:root:Processing site: 
+INFO:root:{'NAME': 'GEREN_SAND_CLEANING_', 'SITE': 'GI Sand Clean ', 'METER': '77293132'}
+INFO:root:Site successfully processed
+INFO:root:Processing site: 
+INFO:root:{'NAME': 'PIONEERPARK_PPL_', 'SITE': 'GI Pioneer Park ', 'METER': '77619010'}
+INFO:root:Site successfully processed
+INFO:root:Processing site: 
+INFO:root:{'NAME': 'GEREN_ENTRY_GATE_PPL_', 'SITE': 'Entry Gate', 'METER': '77618573'}
+INFO:root:Site successfully processed
+INFO:root:Program finished successfully!
+INFO:root:Configuration file successfully loaded.
+INFO:root:Current datetime: 2023-01-10 13:00:02.216759
+INFO:root:Opening browser...
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Get LATEST chromedriver version for google-chrome 108.0.5359
+INFO:WDM:Driver [C:\Users\sarah.rappaport\.wdm\drivers\chromedriver\win32\108.0.5359\chromedriver.exe] found in cache
+INFO:root:Successfully logged in
+INFO:root:Successfully logged in
+INFO:root:Successfully logged in
+INFO:root:Successfully logged in
+INFO:root:An exception happened
+INFO:root:Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=108.0.5359.125)
+Stacktrace:
+Backtrace:
+	(No symbol) [0x00B9F243]
+	(No symbol) [0x00B27FD1]
+	(No symbol) [0x00A1D04D]
+	(No symbol) [0x00A02D7A]
+	(No symbol) [0x00A6BE7B]
+	(No symbol) [0x00A7C196]
+	(No symbol) [0x00A68386]
+	(No symbol) [0x00A4163C]
+	(No symbol) [0x00A4269D]
+	GetHandleVerifier [0x00E39A22+2655074]
+	GetHandleVerifier [0x00E2CA24+2601828]
+	GetHandleVerifier [0x00C48C0A+619850]
+	GetHandleVerifier [0x00C47830+614768]
+	(No symbol) [0x00B305FC]
+	(No symbol) [0x00B35968]
+	(No symbol) [0x00B35A55]
+	(No symbol) [0x00B4051B]
+	BaseThreadInitThunk [0x777000F9+25]
+	RtlGetAppContainerNamedObjectPath [0x778E7BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x778E7B8E+238]
+
+INFO:root:Successfully logged in
+INFO:root:Successfully logged in
+INFO:root:Processing site: 
+INFO:root:{'NAME': 'GEREN_CHEM_BUILDING_PPL_', 'SITE': 'GI CHEM Bldg / OPS ', 'METER': '70185375'}
+INFO:root:Site successfully processed
+INFO:root:Processing site: 
+INFO:root:{'NAME': 'GEREN_PRETREATMENT_', 'SITE': 'GI Pre Treat / SECW ', 'METER': '77437253'}
+INFO:root:Site successfully processed
+INFO:root:Processing site: 
+INFO:root:{'NAME': 'GEREN_WELLS_PPL_', 'SITE': 'GI WELLS', 'METER': '75349246'}
+INFO:root:Site successfully processed
+INFO:root:Processing site: 
+INFO:root:{'NAME': 'GEREN_SAND_CLEANING_', 'SITE': 'GI Sand Clean ', 'METER': '77293132'}
+INFO:root:Site successfully processed
+INFO:root:Processing site: 
+INFO:root:{'NAME': 'PIONEERPARK_PPL_', 'SITE': 'GI Pioneer Park ', 'METER': '77619010'}
+INFO:root:Site successfully processed
+INFO:root:Processing site: 
+INFO:root:{'NAME': 'GEREN_ENTRY_GATE_PPL_', 'SITE': 'Entry Gate', 'METER': '77618573'}
+INFO:root:Site successfully processed
+INFO:root:Program finished successfully!
+INFO:root:Configuration file successfully loaded.
+INFO:root:Current datetime: 2023-01-10 13:55:30.442534
+INFO:root:Opening browser...
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Get LATEST chromedriver version for google-chrome 108.0.5359
+INFO:WDM:Driver [C:\Users\sarah.rappaport\.wdm\drivers\chromedriver\win32\108.0.5359\chromedriver.exe] found in cache
+INFO:root:An exception happened
+INFO:root:Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=108.0.5359.125)
+Stacktrace:
+Backtrace:
+	(No symbol) [0x00B9F243]
+	(No symbol) [0x00B27FD1]
+	(No symbol) [0x00A1D04D]
+	(No symbol) [0x00A02D7A]
+	(No symbol) [0x00A6BE7B]
+	(No symbol) [0x00A7C196]
+	(No symbol) [0x00A68386]
+	(No symbol) [0x00A4163C]
+	(No symbol) [0x00A4269D]
+	GetHandleVerifier [0x00E39A22+2655074]
+	GetHandleVerifier [0x00E2CA24+2601828]
+	GetHandleVerifier [0x00C48C0A+619850]
+	GetHandleVerifier [0x00C47830+614768]
+	(No symbol) [0x00B305FC]
+	(No symbol) [0x00B35968]
+	(No symbol) [0x00B35A55]
+	(No symbol) [0x00B4051B]
+	BaseThreadInitThunk [0x777000F9+25]
+	RtlGetAppContainerNamedObjectPath [0x778E7BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x778E7B8E+238]
+
+INFO:root:Successfully logged in
+INFO:root:Processing site: 
+INFO:root:{'NAME': 'GEREN_CHEM_BUILDING_PPL_', 'SITE': 'GI CHEM Bldg / OPS ', 'METER': '70185375'}
+INFO:root:Site successfully processed
+INFO:root:Processing site: 
+INFO:root:{'NAME': 'GEREN_PRETREATMENT_', 'SITE': 'GI Pre Treat / SECW ', 'METER': '77437253'}
+INFO:root:Site successfully processed
+INFO:root:Processing site: 
+INFO:root:{'NAME': 'GEREN_WELLS_PPL_', 'SITE': 'GI WELLS', 'METER': '75349246'}
+INFO:root:Site successfully processed
+INFO:root:Processing site: 
+INFO:root:{'NAME': 'GEREN_SAND_CLEANING_', 'SITE': 'GI Sand Clean ', 'METER': '77293132'}
+INFO:root:Site successfully processed
+INFO:root:Processing site: 
+INFO:root:{'NAME': 'PIONEERPARK_PPL_', 'SITE': 'GI Pioneer Park ', 'METER': '77619010'}
+INFO:root:Site successfully processed
+INFO:root:Processing site: 
+INFO:root:{'NAME': 'GEREN_ENTRY_GATE_PPL_', 'SITE': 'Entry Gate', 'METER': '77618573'}
+INFO:root:Site successfully processed
+INFO:root:Program finished successfully!

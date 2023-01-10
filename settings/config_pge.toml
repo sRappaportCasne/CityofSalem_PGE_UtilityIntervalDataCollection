@@ -1,0 +1,6 @@
+HEADLESS =  false
+THROTTLE = 0.5 # Seconds
+USERNAME = "Elecserviceacct@cityofsalem.net"
+PASSWORD = "2022Accountsetup"
+OUTPUT_LOC="C:\\Users\\sarah.rappaport\\PycharmProjects\\CityofSalem_PGE_UtilityIntervalDataCollection\\testfolder"
+LOG_LOC="C:\\Users\\sarah.rappaport\\PycharmProjects\\CityofSalem_PGE_UtilityIntervalDataCollection\\testfolder\\log"
